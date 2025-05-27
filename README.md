@@ -29,3 +29,5 @@ Also, [Homelab Theory](https://chatgpt.com/g/g-682c30980c7481918170b5a18a3ef72a-
 [Computational Thinking](https://chatgpt.com/g/g-aYGM8Fap6-computational-thinking)
 <br>
 [Theory](https://github.com/sourceduty/Theory)
+<br>
+[Math Tools](https://github.com/sourceduty/Math_Tools)
