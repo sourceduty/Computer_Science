@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/53bb2e17-a0a3-486c-99e0-15b3db356fc3)
+![Sourceduty](https://github.com/user-attachments/assets/c547dc03-84fa-49b6-b07f-0eb64df3c0cf)
 
 Computer science is the study of computers and computational systems, focusing on both theoretical foundations and practical techniques for solving problems. It involves designing algorithms, understanding data structures, and developing software and hardware to process information efficiently. Beyond programming, computer science encompasses areas like artificial intelligence, cybersecurity, human-computer interaction, and machine learning. It plays a vital role in shaping modern technology and underpins many innovations in fields such as healthcare, finance, education, and entertainment. By combining logic, mathematics, and creativity, computer science drives progress in the digital age.
 
