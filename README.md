@@ -30,7 +30,7 @@ Also, [Homelab Theory](https://chatgpt.com/g/g-682c30980c7481918170b5a18a3ef72a-
 
 #
 
-![Eval Sim](https://github.com/user-attachments/assets/272472fb-90da-47f3-af3e-8b1e6a124c4d)
+![Eval Sim](https://github.com/user-attachments/assets/8cb87cd4-d0b4-4e9a-8d44-a8ca13d87101)
 
 [Evaluation Sim](https://chatgpt.com/g/g-685f8f4e0e5c8191aef313a300e71c49-evaluation-sim) is a custom GPT created test and analyze multiple experimental scenarios in a virtual environment. Instead of relying solely on physical trials—which can be time-consuming, expensive, and limited in scope—Eval Sim enables researchers to define key parameters and automatically generate a wide array of conditions to explore. This includes varying input variables, applying constraints, and establishing different goal states. Once these setups are defined, the simulation engine runs each scenario, mimicking real-world responses through computational models or logic-based approximations. This allows for rapid, large-scale experimentation with minimal resource expenditure.
 
