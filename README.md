@@ -1,6 +1,8 @@
-![Science](https://github.com/user-attachments/assets/7799c0cf-0830-43b4-ad77-2f213e9c8463)
+![Sourceduty](https://github.com/user-attachments/assets/3d0fb087-582d-403f-959b-67a358f16e97)
 
 Computer science is the study of computers and computational systems, focusing on both theoretical foundations and practical techniques for solving problems. It involves designing algorithms, understanding data structures, and developing software and hardware to process information efficiently. Beyond programming, computer science encompasses areas like artificial intelligence, cybersecurity, human-computer interaction, and machine learning. It plays a vital role in shaping modern technology and underpins many innovations in fields such as healthcare, finance, education, and entertainment. By combining logic, mathematics, and creativity, computer science drives progress in the digital age.
+
+Total Sourceduty science knowledge percentage = 15% + 12% + 10% + 10% + 10% + 10% + 15% = 82%
 
 #
 
