@@ -53,3 +53,5 @@ There is no perfect analog for a computer because it represents such an unpreced
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Math Tools](https://github.com/sourceduty/Math_Tools)
+<br>
+[Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
